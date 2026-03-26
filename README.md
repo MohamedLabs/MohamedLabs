@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F5A623&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Marwan+Khaled;Digital+Design+%26+Verification+Engineer;FPGA+%7C+ASIC+%7C+UVM+%7C+SoC+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Khaled;DevOps+Engineer+%7C+Cloud+Architect;Kubernetes+%7C+AWS+%7C+GCP+%7C+IaC" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="mailto:khaledryad816@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/marwan-khaled"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/marwan-khaled"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:MohamedKhaledCareer@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mohamed-khaled-603728243"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MohamedKhaledOCT"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Cairo%2C%20Egypt-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
@@ -13,150 +13,128 @@
 
 ## 🧑‍💻 About Me
 
-> **Electronics & Communication Engineering student** at Cairo University, specializing in **Digital Design** and **Digital Verification** with a strong focus on ASIC and FPGA flows.
+> **Detail-oriented DevOps Engineer** with hands-on experience in CI/CD pipelines, Infrastructure as Code (IaC), container orchestration, and cloud automation.
 
-- 🎓 4th Year ECE student @ **Cairo University** — Overall Grade: **Excellent (86.6%)**
-- 🔬 Area of Focus: **FPGA Design Flow** & **Digital Verification using UVM**
-- 🏢 Interned at **Mixel** (Digital Verification) and **ADI** (Digital Design)
-- ⚡ Experienced in RTL-to-GDS full ASIC flow, SoC design, and SystemVerilog/UVM verification
-- 🌐 Background in: Mobile Communication, DSP, PCB Design, Embedded Systems, Analog IC Design
-- 📫 Reach me at: **khaledryad816@gmail.com**
+- 🔭 Currently working as **IT Support Specialist** at Malibu & **Freelance Flutter Developer**
+- ☁️ Experienced across **AWS** and **GCP** cloud environments
+- 🐳 Proficient in **Kubernetes**, **Jenkins**, **Docker**, **Terraform**, and **GitOps** workflows
+- 🐧 Strong **Linux** background with solid networking and cloud-native security knowledge
+- 📱 Also builds cross-platform apps with **Flutter & Firebase**
+- 📫 Reach me at: **MohamedKhaledCareer@outlook.com**
 
 ---
 
-## 🛠️ Technical Skills
+## 🏅 Certifications
 
-### 🔧 RTL Design & Verification
-![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=flat-square&logo=v&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-8B0000?style=flat-square)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=flat-square)
-![UVM](https://img.shields.io/badge/UVM-6A0DAD?style=flat-square)
-![FPGA](https://img.shields.io/badge/FPGA%20Design%20Flow-0078D7?style=flat-square)
-![Low Power](https://img.shields.io/badge/Low--Power%20Design-2E8B57?style=flat-square)
-![STA](https://img.shields.io/badge/STA-8B4513?style=flat-square)
-![CDC](https://img.shields.io/badge/CDC-555555?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-Professional%20DevOps%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-### 🏗️ ASIC & SoC
-![ASIC](https://img.shields.io/badge/ASIC%20Design-343434?style=flat-square)
-![SoC](https://img.shields.io/badge/SoC%20Design-1A1A2E?style=flat-square)
-![VLSI](https://img.shields.io/badge/VLSI-4B0082?style=flat-square)
-![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-005C84?style=flat-square)
-![PCB](https://img.shields.io/badge/PCB%20Design-006400?style=flat-square)
-![Analog IC](https://img.shields.io/badge/Analog%20IC%20Basics-8B0000?style=flat-square)
+---
 
-### 💻 Programming
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+
+### 🔄 CI/CD & GitOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+### 📊 Monitoring & Security
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasec&logoColor=white)
+
+### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
-![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### 📡 Communication & Embedded
-![Mobile 5G](https://img.shields.io/badge/2G%2F3G%2F4G%2F5G-0070AD?style=flat-square)
-![DSP](https://img.shields.io/badge/DSP-FF8C00?style=flat-square)
-![RTOS](https://img.shields.io/badge/RTOS%20%2F%20FreeRTOS-00979D?style=flat-square)
-![Embedded](https://img.shields.io/badge/Embedded%20Systems-6A5ACD?style=flat-square)
+### 📱 Mobile & Web
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 🧰 Tools
-![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=flat-square&logo=xilinx&logoColor=white)
-![QuestaSim](https://img.shields.io/badge/Questa%20Sim-0047AB?style=flat-square)
-![Design Compiler](https://img.shields.io/badge/Synopsys%20DC-AA0000?style=flat-square)
-![Cadence](https://img.shields.io/badge/Cadence%20Virtuoso-005073?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🐧 OS & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CCNA](https://img.shields.io/badge/Networking-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚙️ ASIC & RTL Design
+### ☁️ DevOps & Cloud
 
-| Project | Highlights |
-|---------|------------|
-| 🏆 **RTL to GDS — Low Power Multi-Clock Digital System** | Full ASIC flow: RTL design, synthesis (Design Compiler), timing closure, physical implementation, post-layout sign-off |
-| 🖥️ **System on Chip (SoC) Design** | 50-instruction pipelined MIPS processor, APB/AHB bus, AHB-to-APB bridge, Timer & GPIO peripherals |
-| 📡 **Single-Master AMBA AHB-Lite** | End-to-end RTL to FPGA implementation via Vivado |
-| 📐 **FFT ASIC Design** | System modeling, RTL, verification & full implementation |
-| 🔲 **3x3 Systolic Array (Transistor-Level)** | Full-custom VLSI design for matrix multiplication |
-| ⚙️ **MIPS Processors** | Multi-cycle (10-instruction) & single-cycle (50-instruction) designs |
-| 🔁 **DSP48A1 Slice (Spartan-6)** | Verilog design with full FPGA design flow |
-| 📶 **SPI Slave + Single-Port RAM** | FPGA-based implementation |
-| 🔄 **Async FIFO with CDC** | Clock Domain Crossing techniques on FPGA |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🖥️ **Serverless Draw App on AWS** | Zero-server architecture with IaC provisioning | Terraform, Lambda, API Gateway, DynamoDB, CloudFront, S3 |
+| 🌐 **WordPress on GCP (Automated)** | Highly available WordPress on GKE with automated deployment | GKE, Cloud SQL, VPC, Load Balancer, IAM |
+| 🔄 **Node.js CI/CD Pipeline** | Full GitOps pipeline from commit to Kubernetes deployment | Jenkins, ArgoCD, Docker, K8s, GitHub |
+| 📡 **Serverless Billing System on GCP** | Microservices billing app using Cloud Run | Cloud Build, Cloud Run, IAM, GCP CLI |
+| 🔗 **Cross-Cloud Analytics** | BigQuery queries on AWS S3 data without migration | BigQuery Omni, AWS S3, BigLake, SQL |
+| 📊 **Real-Time Data Pipeline** | Streaming NYC Taxi data with SingleStoreDB | Pub/Sub, Dataflow, SingleStoreDB, GCS |
+| 🕸️ **Service Mesh on GKE** | Istio-based service mesh with full observability | Istio, GKE, Envoy, Cloud Monitoring |
 
-### ✅ Verification
+### 📱 Mobile & Web
 
-| Project | Highlights |
-|---------|------------|
-| 🧪 **FIFO Verification (UVM)** | Full UVM environment |
-| 🧪 **FIFO Verification (SystemVerilog)** | Assertions, code/functional coverage, constrained randomization, golden model |
-| ✔️ **ALSU & Synchronous ALU** | Design + verification using Verilog, SV & UVM |
-| ✔️ **PWM Unit** | Design, verification & FPGA implementation |
-
-### 📟 Embedded & Other
-
-| Project | Tech |
-|---------|------|
-| 🕹️ **Digital Multimeter (DMM)** | PIC18F45K20, C, PCB |
-| ⏱️ **RTOS Project** | FreeRTOS, C |
-| 🎮 **Tic-Tac-Toe with GUI & DB** | C++ |
-| 🔊 **Audio & Image Processing** | MATLAB |
-| 📐 **CORDIC Algorithm (Sine)** | MATLAB |
-| ⚡ **SPICE Circuit Simulator** | MATLAB |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏥 **ClincApp** | Multi-clinic EMR system with bilingual interface & role-based access | Flutter, Firebase, Cloudinary, GitHub Actions |
+| 💰 **M/WE Financial App** | Cross-platform personal & corporate financial management | Flutter, Dart, BLoC/Cubit, Firebase |
 
 ---
 
-## 🎓 Training & Internships
-
-| Organization | Role | Duration |
-|---|---|---|
-| **Mixel** | Digital Verification Intern | 2 months |
-| **ADI (Analog Devices)** | Digital Design Intern | 2 months |
-
----
-
-## 📚 Courses & Workshops
+## 💼 Experience Timeline
 
 ```
-✔  SOC Design & Computer Architecture Diploma         — 50 hrs
-✔  Digital IC Design Diploma                          — 100 hrs
-✔  Digital Design (Verilog & FPGA) Diploma            — 34 hrs
-✔  Digital Verification (SV & UVM) Diploma            — 40 hrs
-✔  Digital Design Course, ODC                         — 96 hrs
-✔  FPGA Design Summer Training, NTI                   — 120 hrs
-✔  Online Embedded System Diploma, Siemens            — 100 hrs
-✔  Online Embedded System Diploma (Ahmed Abd El-G.)   — 100 hrs
-✔  HCIA 5G Training, NTI                              — 70 hrs
-✔  Mobile Package (2G-5G) & Drive Test                — 70 hrs
-✔  Cadence Virtuoso Training, Cairo University        — 20 hrs
-✔  Telecommunication Training, NMA                    — 35 hrs
-✔  MATLAB Workshop                                    — 20 hrs
-✔  SPL01 System Programming in Linux, Udemy           — 12 hrs
+2025 – Present  │  IT Support Specialist @ Malibu
+2025 – Present  │  Freelance Flutter Developer
+2025            │  Flutter Intern @ NTI
+2025            │  Linux SysAdmin Intern @ NTI
+2024            │  DevOps Engineer Intern @ Orange Digital Center
+2024            │  DevOps Engineer Intern @ Etisalat e& (Ericsson)
+2024            │  DevOps Engineer Intern @ NTI
+2023            │  CCNA Intern @ NTI
+2022            │  Cyber Security Intern @ Orange Digital Center
 ```
 
----
+
 
 ## 🎓 Education
 
-**Bachelor of Electronics & Communication Engineering**
-Faculty of Engineering, Cairo University — *2021 – Expected 2026*
-📊 Overall Grade: **Excellent (86.6%)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marwan-khaled&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwan-khaled&theme=radical&hide_border=true" width="48%"/>
-</p>
+**Bachelor of Computer Science**
+Thebes Higher Institute of Computer and Management Science — *2017 – 2021*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marwan-khaled&color=F5A623&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MohamedKhaledOCT&color=00d4ff&style=flat-square&label=Profile+Views"/>
 </p>
 
 <p align="center">
-  <i>"From RTL to GDS — building silicon, one design at a time."</i>
+  <i>"Automate everything. Document everything. Break nothing in production."</i>
 </p>
