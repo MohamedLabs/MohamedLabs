@@ -1,16 +1,152 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Khaled;DevOps+Engineer+%7C+Cloud+Architect;Kubernetes+%7C+AWS+%7C+GCP+%7C+IaC" alt="Typing SVG" />
+</h1>
 
-<!--
-**MohamedLabs/MohamedLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:MohamedKhaledCareer@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mohamed-khaled-603728243"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MohamedKhaledOCT"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Cairo%2C%20Egypt-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+> **Detail-oriented DevOps Engineer** with hands-on experience in CI/CD pipelines, Infrastructure as Code (IaC), container orchestration, and cloud automation.
+
+- 🔭 Currently working as **IT Support Specialist** at Malibu & **Freelance Flutter Developer**
+- ☁️ Experienced across **AWS** and **GCP** cloud environments
+- 🐳 Proficient in **Kubernetes**, **Jenkins**, **Docker**, **Terraform**, and **GitOps** workflows
+- 🐧 Strong **Linux** background with solid networking and cloud-native security knowledge
+- 📱 Also builds cross-platform apps with **Flutter & Firebase**
+- 📫 Reach me at: **MohamedKhaledCareer@outlook.com**
+
+---
+
+## 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-Professional%20DevOps%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+
+### 🔄 CI/CD & GitOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+### 📊 Monitoring & Security
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasec&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### 📱 Mobile & Web
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### 🐧 OS & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CCNA](https://img.shields.io/badge/Networking-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ DevOps & Cloud
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🖥️ **Serverless Draw App on AWS** | Zero-server architecture with IaC provisioning | Terraform, Lambda, API Gateway, DynamoDB, CloudFront, S3 |
+| 🌐 **WordPress on GCP (Automated)** | Highly available WordPress on GKE with automated deployment | GKE, Cloud SQL, VPC, Load Balancer, IAM |
+| 🔄 **Node.js CI/CD Pipeline** | Full GitOps pipeline from commit to Kubernetes deployment | Jenkins, ArgoCD, Docker, K8s, GitHub |
+| 📡 **Serverless Billing System on GCP** | Microservices billing app using Cloud Run | Cloud Build, Cloud Run, IAM, GCP CLI |
+| 🔗 **Cross-Cloud Analytics** | BigQuery queries on AWS S3 data without migration | BigQuery Omni, AWS S3, BigLake, SQL |
+| 📊 **Real-Time Data Pipeline** | Streaming NYC Taxi data with SingleStoreDB | Pub/Sub, Dataflow, SingleStoreDB, GCS |
+| 🕸️ **Service Mesh on GKE** | Istio-based service mesh with full observability | Istio, GKE, Envoy, Cloud Monitoring |
+
+### 📱 Mobile & Web
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏥 **ClincApp** | Multi-clinic EMR system with bilingual interface & role-based access | Flutter, Firebase, Cloudinary, GitHub Actions |
+| 💰 **M/WE Financial App** | Cross-platform personal & corporate financial management | Flutter, Dart, BLoC/Cubit, Firebase |
+
+---
+
+## 💼 Experience Timeline
+
+```
+2025 – Present  │  IT Support Specialist @ Malibu
+2025 – Present  │  Freelance Flutter Developer
+2025            │  Flutter Intern @ NTI
+2025            │  Linux SysAdmin Intern @ NTI
+2024            │  DevOps Engineer Intern @ Orange Digital Center
+2024            │  DevOps Engineer Intern @ Etisalat e& (Ericsson)
+2024            │  DevOps Engineer Intern @ NTI
+2023            │  CCNA Intern @ NTI
+2022            │  Cyber Security Intern @ Orange Digital Center
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedKhaledOCT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedKhaledOCT&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedKhaledOCT&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science**
+Thebes Higher Institute of Computer and Management Science — *2017 – 2021*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedKhaledOCT&color=00d4ff&style=flat-square&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  <i>"Automate everything. Document everything. Break nothing in production."</i>
+</p>
