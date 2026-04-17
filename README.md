@@ -108,11 +108,17 @@
 
 ---
 
+<table>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/MohamedKhaledOCT/MohamedKhaledOCT/main/assets/lynx_logo.png" width="90" alt="Lynx Logo"/>
+</td>
+<td valign="top">
+
 #### 🦁 Lynx ERP — Enterprise Commercial Management *(Malibu Commercial Group)*
 
 > A high-performance, enterprise-grade management ecosystem that orchestrates the entire lifecycle of field sales, financial reconciliation, and strategic reporting with surgical precision.
 
-**Tech Stack:**
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -122,20 +128,74 @@
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Key Highlights:**
-- 💰 **Financial Ecosystem**: Intelligent invoicing with itemized discounts, smart collections with *Oldest-Invoice-First* settlement logic, formal remittance module, and full support for Returns, Credit Notes & Debit Notes
-- 👥 **Partner Intelligence**: 360° trader profiles with full financial statements, AR aging reports, and dynamic agent/region performance leaderboards
-- 📊 **Dual-Metric Analysis**: Unique ability to track performance through both **Monetary Value** and **Unit Volume (Quantity)**
-- 📄 **Enterprise Reporting**: A4-ready professional printing engine (Invoices, Vouchers, Statements) + Excel export for multi-dimensional reports
-- ⚡ **AppCache Architecture**: Custom in-memory caching layer reducing Firestore reads while maintaining real-time sync
-- 🌐 **RTL-Optimized**: Fully bilingual (Arabic/English) with native RTL layout and ACID-compliant Firestore Transactions
+- 💰 **Financial Ecosystem**: Intelligent invoicing with *Oldest-Invoice-First* settlement logic, remittance module, Returns, Credit & Debit Notes
+- 👥 **Partner Intelligence**: 360° trader profiles, AR aging reports, dynamic agent/region performance leaderboards
+- 📊 **Dual-Metric Analysis**: Track performance through both **Monetary Value** and **Unit Volume**
+- 📄 **Enterprise Reporting**: A4-ready printing engine (Invoices, Vouchers, Statements) + Excel export
+- ⚡ **AppCache Architecture**: Custom in-memory caching layer reducing Firestore reads with real-time sync
+- 🌐 **RTL-Optimized**: Fully bilingual (AR/EN) with native RTL layout and ACID-compliant Firestore Transactions
+
+</td>
+</tr>
+</table>
 
 ---
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏥 **ClincApp** | Multi-clinic EMR system with digital triage, scheduling, financial reporting, and role-based access across iOS, Android & Windows | Flutter, Firebase, Cloudinary, GitHub Actions |
-| 💰 **M/WE Financial App** | Cross-platform personal & corporate financial management with secure multi-tenant Firestore architecture | Flutter, Dart, BLoC/Cubit, Firebase |
+<table>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/MohamedKhaledOCT/MohamedKhaledOCT/main/assets/clinc_logo.png" width="90" alt="ClincApp Logo"/>
+</td>
+<td valign="top">
+
+#### 🏥 ClincApp — Smart Clinic Management System *(Freelance)*
+
+> A comprehensive, cross-platform EMR solution that streamlines patient throughput, enhances clinical decision-making, and provides financial oversight across multiple medical facilities.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Riverpod](https://img.shields.io/badge/Riverpod-00BCD4?style=flat-square&logo=dart&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+- 👨‍⚕️ **Doctor Interface**: Real-time analytics dashboard, digital prescription system, patient session workspace with visit history & medical media gallery
+- 👩‍💻 **Secretary Interface**: Patient management, flexible scheduling & waiting lists, daily transaction log, treasury management
+- 📄 **Financial & Clinical Reporting**: Daily, monthly, and annual report cycles with comprehensive auditing capabilities
+- 🔐 **RBAC Security**: Role-based access control across iOS, Android & Windows platforms
+- 📊 **Data Visualization**: FL Chart for analytics; PDF & Printing packages for professional prescriptions/invoices
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/MohamedKhaledOCT/MohamedKhaledOCT/main/assets/mwe_logo.png" width="90" alt="M/WE Logo"/>
+</td>
+<td valign="top">
+
+#### 💰 M/WE Finance App — Personal & Corporate Financial Management *(NTI Graduation Project)*
+
+> A cross-platform financial management solution for both personal wallets and company treasuries, built with a clean architecture separating UI from business logic.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cubit](https://img.shields.io/badge/BLoC%2FCubit-13B9FD?style=flat-square&logo=dart&logoColor=white)
+
+- 🧠 **Smart Routing**: On login, app reads `userType` from Firestore and routes automatically to Personal or Company home screen
+- 🏦 **Multi-Tenant Architecture**: Strict Firestore data isolation between personal and company accounts per user role
+- 📊 **Financial Analytics**: Pie & Line charts (FL Chart) for spending patterns and budget tracking
+- 🌐 **Localization**: Fully bilingual (Arabic default / English) using `.arb` files and `flutter_localizations`
+- 🎬 **"ME → WE" Onboarding**: Signature animated intro using `AnimatedSwitcher` on first launch
+- ⚡ **Real-Time Sync**: `StreamBuilder` on Firestore for instant data reflection without manual refresh
+
+</td>
+</tr>
+</table>
 
 ---
 
