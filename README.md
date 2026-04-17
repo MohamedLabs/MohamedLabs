@@ -111,7 +111,7 @@
 <table>
 <tr>
 <td width="120" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/MohamedKhaledOCT/MohamedKhaledOCT/main/assets/lynx_logo.png" width="90" alt="Lynx Logo"/>
+<img src="https://raw.githubusercontent.com/MohamedLabs/MohamedLabs/main/assets/lynx_logo.png" width="90" alt="Lynx Logo"/>
 </td>
 <td valign="top">
 
@@ -144,7 +144,7 @@
 <table>
 <tr>
 <td width="120" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/MohamedKhaledOCT/MohamedKhaledOCT/main/assets/clinc_logo.png" width="90" alt="ClincApp Logo"/>
+<img src="https://raw.githubusercontent.com/MohamedLabs/MohamedLabs/main/assets/clinc_logo.png" width="90" alt="ClincApp Logo"/>
 </td>
 <td valign="top">
 
@@ -173,7 +173,7 @@
 <table>
 <tr>
 <td width="120" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/MohamedKhaledOCT/MohamedKhaledOCT/main/assets/mwe_logo.png" width="90" alt="M/WE Logo"/>
+<img src="https://raw.githubusercontent.com/MohamedLabs/MohamedLabs/main/assets/mwe_logo.png" width="90" alt="M/WE Logo"/>
 </td>
 <td valign="top">
 
@@ -230,3 +230,10 @@ Thebes Higher Institute of Computer and Management Science — *2017 – 2021*
 <p align="center">
   <i>"Automate everything. Document everything. Break nothing in production."</i>
 </p>
+
+<!-- 
+  📁 ASSETS SETUP: To display project logos, create an `assets/` folder in this repo and upload:
+  - assets/lynx_logo.png   → Lynx ERP logo
+  - assets/clinc_logo.png  → ClincApp logo
+  - assets/mwe_logo.png    → M/WE Finance logo
+-->
