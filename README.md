@@ -231,9 +231,4 @@ Thebes Higher Institute of Computer and Management Science — *2017 – 2021*
   <i>"Automate everything. Document everything. Break nothing in production."</i>
 </p>
 
-<!-- 
-  📁 ASSETS SETUP: To display project logos, create an `assets/` folder in this repo and upload:
-  - assets/lynx_logo.png   → Lynx ERP logo
-  - assets/clinc_logo.png  → ClincApp logo
-  - assets/mwe_logo.png    → M/WE Finance logo
--->
+
