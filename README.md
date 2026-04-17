@@ -80,6 +80,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### 🐧 OS & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -104,9 +106,34 @@
 
 ### 💼 Internal & Freelance Systems
 
+---
+
+#### 🦁 Lynx ERP — Enterprise Commercial Management *(Malibu Commercial Group)*
+
+> A high-performance, enterprise-grade management ecosystem that orchestrates the entire lifecycle of field sales, financial reconciliation, and strategic reporting with surgical precision.
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Key Highlights:**
+- 💰 **Financial Ecosystem**: Intelligent invoicing with itemized discounts, smart collections with *Oldest-Invoice-First* settlement logic, formal remittance module, and full support for Returns, Credit Notes & Debit Notes
+- 👥 **Partner Intelligence**: 360° trader profiles with full financial statements, AR aging reports, and dynamic agent/region performance leaderboards
+- 📊 **Dual-Metric Analysis**: Unique ability to track performance through both **Monetary Value** and **Unit Volume (Quantity)**
+- 📄 **Enterprise Reporting**: A4-ready professional printing engine (Invoices, Vouchers, Statements) + Excel export for multi-dimensional reports
+- ⚡ **AppCache Architecture**: Custom in-memory caching layer reducing Firestore reads while maintaining real-time sync
+- 🌐 **RTL-Optimized**: Fully bilingual (Arabic/English) with native RTL layout and ACID-compliant Firestore Transactions
+
+---
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🦁 **Lynx — Sales Operations Platform** | Bilingual (AR/EN) internal business platform for Malibu managing end-to-end financial workflows: invoices, collections, remittances, dealer performance, AR aging, and real-time product movement tracking | React, TypeScript, Vite, Firebase, TanStack Query, Tailwind CSS, i18next, GitHub Actions |
 | 🏥 **ClincApp** | Multi-clinic EMR system with digital triage, scheduling, financial reporting, and role-based access across iOS, Android & Windows | Flutter, Firebase, Cloudinary, GitHub Actions |
 | 💰 **M/WE Financial App** | Cross-platform personal & corporate financial management with secure multi-tenant Firestore architecture | Flutter, Dart, BLoC/Cubit, Firebase |
 
