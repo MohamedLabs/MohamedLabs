@@ -15,7 +15,8 @@
 
 > **Detail-oriented DevOps Engineer** with hands-on experience in CI/CD pipelines, Infrastructure as Code (IaC), container orchestration, and cloud automation.
 
-- 🔭 Currently working as **IT Support Specialist** at Malibu & **Freelance Flutter Developer**
+- 🔭 Currently working as **IT Support Specialist** at Malibu & **Freelance Software Engineer**
+- 🎓 Currently an **AWS Solutions Architect Intern** at NTI
 - ☁️ Experienced across **AWS** and **GCP** cloud environments
 - 🐳 Proficient in **Kubernetes**, **Jenkins**, **Docker**, **Terraform**, and **GitOps** workflows
 - 🐧 Strong **Linux** background with solid networking and cloud-native security knowledge
@@ -77,6 +78,8 @@
 ### 📱 Mobile & Web
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🐧 OS & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -99,20 +102,22 @@
 | 📊 **Real-Time Data Pipeline** | Streaming NYC Taxi data with SingleStoreDB | Pub/Sub, Dataflow, SingleStoreDB, GCS |
 | 🕸️ **Service Mesh on GKE** | Istio-based service mesh with full observability | Istio, GKE, Envoy, Cloud Monitoring |
 
-### 📱 Mobile & Web
+### 💼 Internal & Freelance Systems
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🏥 **ClincApp** | Multi-clinic EMR system with bilingual interface & role-based access | Flutter, Firebase, Cloudinary, GitHub Actions |
-| 💰 **M/WE Financial App** | Cross-platform personal & corporate financial management | Flutter, Dart, BLoC/Cubit, Firebase |
+| 🦁 **Lynx — Sales Operations Platform** | Bilingual (AR/EN) internal business platform for Malibu managing end-to-end financial workflows: invoices, collections, remittances, dealer performance, AR aging, and real-time product movement tracking | React, TypeScript, Vite, Firebase, TanStack Query, Tailwind CSS, i18next, GitHub Actions |
+| 🏥 **ClincApp** | Multi-clinic EMR system with digital triage, scheduling, financial reporting, and role-based access across iOS, Android & Windows | Flutter, Firebase, Cloudinary, GitHub Actions |
+| 💰 **M/WE Financial App** | Cross-platform personal & corporate financial management with secure multi-tenant Firestore architecture | Flutter, Dart, BLoC/Cubit, Firebase |
 
 ---
 
 ## 💼 Experience Timeline
 
 ```
+2026 – Present  │  AWS Solutions Architect Intern @ NTI
 2025 – Present  │  IT Support Specialist @ Malibu
-2025 – Present  │  Freelance Flutter Developer
+2025 – Present  │  Freelance Software Engineer
 2025            │  Flutter Intern @ NTI
 2025            │  Linux SysAdmin Intern @ NTI
 2024            │  DevOps Engineer Intern @ Orange Digital Center
@@ -122,7 +127,7 @@
 2022            │  Cyber Security Intern @ Orange Digital Center
 ```
 
-
+---
 
 ## 🎓 Education
 
